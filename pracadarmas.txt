@@ -1,0 +1,18 @@
+votacao-clube-naval/
+├── components/
+│   ├── AdminPanel.tsx
+│   ├── DishCard.tsx
+│   ├── DishForm.tsx
+│   ├── DishManagement.tsx
+│   ├── ExperienceVoting.tsx
+│   ├── Header.tsx
+│   └── WinnerCard.tsx
+├── services/
+│   └── geminiService.ts
+├── AdminPage.tsx
+├── App.tsx
+├── index.html
+├── index.tsx
+├── metadata.json
+├── types.ts
+└── VotingPage.tsx
